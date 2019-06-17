@@ -21,4 +21,4 @@ public class FaceDetection {
         in.close();
         ImageShow(link);
     }
-}
+}//Will be updated soon. Stay tuned for that
